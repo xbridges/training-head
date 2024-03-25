@@ -2,8 +2,10 @@
 
 # ソースコードの実行方法（ターミナルの実行コマンド）
 ## gitclone & コンパイル
+```
 git clone https://github.com/xbridges/training-head.git
 mvn install
+```
 
 ## 実行
 ```
