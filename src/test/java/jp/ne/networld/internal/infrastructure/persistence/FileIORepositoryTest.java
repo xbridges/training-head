@@ -1,4 +1,4 @@
-package jp.ne.networld.internal.infrastructure.persistance;
+package jp.ne.networld.internal.infrastructure.persistence;
 
 import java.io.IOException;
 

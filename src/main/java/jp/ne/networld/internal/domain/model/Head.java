@@ -4,7 +4,7 @@ import java.io.IOException;
 
 import jp.ne.networld.internal.domain.CommandHead;
 import jp.ne.networld.internal.domain.repository.TextRepository;
-import jp.ne.networld.internal.infrastructure.persistance.TextFileRepository;
+import jp.ne.networld.internal.infrastructure.persistence.TextFileRepository;
 
 public class Head implements CommandHead{
 	private final static int OptionCharLimit = 0;
